@@ -1,0 +1,11 @@
+c:\users\teury\source\repos\CoodingChallengePipefy\CoodingChallengePipefy\bin\Debug\netcoreapp2.0\CoodingChallengePipefy.deps.json
+c:\users\teury\source\repos\CoodingChallengePipefy\CoodingChallengePipefy\bin\Debug\netcoreapp2.0\CoodingChallengePipefy.runtimeconfig.json
+c:\users\teury\source\repos\CoodingChallengePipefy\CoodingChallengePipefy\bin\Debug\netcoreapp2.0\CoodingChallengePipefy.runtimeconfig.dev.json
+c:\users\teury\source\repos\CoodingChallengePipefy\CoodingChallengePipefy\bin\Debug\netcoreapp2.0\CoodingChallengePipefy.dll
+c:\users\teury\source\repos\CoodingChallengePipefy\CoodingChallengePipefy\bin\Debug\netcoreapp2.0\CoodingChallengePipefy.pdb
+c:\users\teury\source\repos\CoodingChallengePipefy\CoodingChallengePipefy\obj\Debug\netcoreapp2.0\CoodingChallengePipefy.csprojResolveAssemblyReference.cache
+c:\users\teury\source\repos\CoodingChallengePipefy\CoodingChallengePipefy\obj\Debug\netcoreapp2.0\CoodingChallengePipefy.csproj.CoreCompileInputs.cache
+c:\users\teury\source\repos\CoodingChallengePipefy\CoodingChallengePipefy\obj\Debug\netcoreapp2.0\CoodingChallengePipefy.AssemblyInfoInputs.cache
+c:\users\teury\source\repos\CoodingChallengePipefy\CoodingChallengePipefy\obj\Debug\netcoreapp2.0\CoodingChallengePipefy.AssemblyInfo.cs
+c:\users\teury\source\repos\CoodingChallengePipefy\CoodingChallengePipefy\obj\Debug\netcoreapp2.0\CoodingChallengePipefy.dll
+c:\users\teury\source\repos\CoodingChallengePipefy\CoodingChallengePipefy\obj\Debug\netcoreapp2.0\CoodingChallengePipefy.pdb
